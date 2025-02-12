@@ -1,2 +1,2 @@
 # DiceRollerGame
- Multiplatform application using Kotling & jetpack Compose
+ Multiplatform application using Kotlin & jetpack Compose
