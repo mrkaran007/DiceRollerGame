@@ -4,7 +4,7 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots & Demo
 
 **Android**
 
@@ -13,6 +13,10 @@
   <img src="composeApp/src/commonMain/composeResources/drawable/android_win.png" width="250">
 </p>
 
+*DEMO*
+
+![Game Demo](composeApp/src/commonMain/composeResources/drawable/android.gif)
+
 **Desktop**
 
 <p align="center">
@@ -20,6 +24,9 @@
   <img src="composeApp/src/commonMain/composeResources/drawable/desktop_win.png" width="250">
 </p>
 
+*DEMO*
+
+![Game Demo](composeApp/src/commonMain/composeResources/drawable/desktop.gif)
 ---
 
 ## 🎮 Features
