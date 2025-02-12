@@ -6,6 +6,19 @@
 
 ## 📸 Screenshots
 
+**Android**
+
+<p align="center">
+  <img src="composeApp/src/commonMain/composeResources/drawable/android.png" width="250">
+  <img src="composeApp/src/commonMain/composeResources/drawable/android_win.png" width="250">
+</p>
+
+**Desktop**
+
+<p align="center">
+  <img src="composeApp/src/commonMain/composeResources/drawable/desktop.png" width="250">
+  <img src="composeApp/src/commonMain/composeResources/drawable/desktop_win.png" width="250">
+</p>
 
 ---
 
@@ -13,7 +26,7 @@
 ✅ **Turn-based dice rolling**  
 ✅ **Two-player multiplayer mode**  
 ✅ **First player to reach 50 points wins**  
-✅ **Cross-platform support (Android, iOS & windows)**  
+✅ **Cross-platform support (Android, iOS & Desktop)**  
 ✅ **Simple and user-friendly UI**  
 
 ---
@@ -45,6 +58,11 @@ cd DiceRollerGame
 1. Open **DiceRollerGame** in **Xcode**.
 2. Select an **iPhone Simulator**.
 3. Click **Build & Run** ▶️.
+
+### 🔹 Running on Desktop (Windows, macOS, Linux)
+1. Open the project in **IntelliJ IDEA** or **Android Studio**.
+2. Select the **desktop target**.
+3. Click **Run** ▶️ to start the game.
 
 ---
 
