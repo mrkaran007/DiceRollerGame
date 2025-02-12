@@ -67,11 +67,9 @@ cd DiceRollerGame
 ---
 
 ## 🛠️ Tech Stack
-- **Kotlin Multiplatform (KMP)** - Shared logic between Android & iOS
+- **Kotlin Multiplatform (KMP)** - Shared logic between Android, iOS & desktop
 - **Jetpack Compose (Android)** - Modern UI for Android
 - **SwiftUI (iOS)** - Native UI for iOS
-- **Ktor** (Networking, if applicable)
-- **Coroutines** (For async tasks)
 
 ---
 
